@@ -4,6 +4,6 @@ Erode
 
 ![](img/erode.png)
 
-Erode
+Dilate
 
 ![](img/dilate.png)
